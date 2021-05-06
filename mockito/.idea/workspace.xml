@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47895d78-c5a5-4a0e-a122-86fa485f85a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s588GclKi992i5WtgX8AAeXO9Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/i2n/mockito/test_doubles/dummy" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.i2n.mockito.test_doubles.dummy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sharmila\IdeaProjects\mockito\src\main\java\com\i2n\mockito\test_doubles\dummy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FakeTest.testFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i2n.mockito.test_doubles.fake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.i2n.mockito.test_doubles.fake" />
+      <option name="MAIN_CLASS_NAME" value="com.i2n.mockito.test_doubles.fake.FakeTest" />
+      <option name="METHOD_NAME" value="testFake" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FakeTest.testFake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47895d78-c5a5-4a0e-a122-86fa485f85a3" name="Default Changelist" comment="" />
+      <created>1620150934750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620150934750</updated>
+      <workItem from="1620150969600" duration="5265000" />
+      <workItem from="1620197867155" duration="6126000" />
+      <workItem from="1620279100938" duration="256000" />
+      <workItem from="1620293072538" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="5" key="#Plugins" timestamp="1620151890986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1620151890986" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1620293612432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1620293612432" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1620233141619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620233141619" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1620233141619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620233141619" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1620233141619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620233141619" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1620233141619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620233141619" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1620154593188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620154593188" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1620151949920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1620151949920" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1620154543834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1620154543834" />
+  </component>
+</project>
