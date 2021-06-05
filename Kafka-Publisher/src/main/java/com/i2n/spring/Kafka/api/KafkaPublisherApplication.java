@@ -19,8 +19,15 @@ public class KafkaPublisherApplication {
 
 	@GetMapping("/publish/{name}")
 	public String publishMessage(@PathVariable String name) {
-		template.send(topic, "Hi " + name + "Welcome to kafka publishing");
+		template.send(topic, "Hi " + name + " Welcome to kafka publishing");
 		return "Data Published";
+	}
+
+	@GetMapping("/publishJson")
+	public String publishMessage() {
+		User user = new User(2532, "User88", new String[] { "Chennai", "Ashok Pillar", "85" });
+		template.send(topic, user);
+		return "Json Data Published";
 	}
 
 	public static void main(String[] args) {
