@@ -1,6 +1,6 @@
 package com.designpatterns.simplefactory;
 
-// Simple Factory class to create objects
+//class to create objects
 public class WoodenFactory {
 
     public static Door makeDoor(float width, float height) {
